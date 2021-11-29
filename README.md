@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-nikh&label=Profile%20views&color=0e75b6&style=flat" alt="git-nikh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/cn9666" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/cn9666?logo=twitter&style=for-the-badge" alt="https://twitter.com/cn9666" /></a> </p>
-
 - 🔭 I’m currently working on **Data Science end to end projects**
 
 - 🌱 I’m currently learning **ML | DL | NLP**
