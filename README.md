@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 - 🔭 I’m currently working on Data Science end to end projects
 - 🌱 I’m currently learning ML | DL | NLP
